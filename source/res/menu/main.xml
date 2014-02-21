@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_about" android:title="@string/about_menu"></item>
+    <item android:id="@+id/action_grabnum" android:title="@string/grab_number"></item>
+
+</menu>

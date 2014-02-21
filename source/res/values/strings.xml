@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">H2O Data Balance</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_prompt">H2O Mobile Number:</string>
+    <string name="check_balance">Check Data Balance</string>
+    <string name="about_menu">About</string>
+    <string name="grab_number">Grab my Phone Number</string>
+</resources>
